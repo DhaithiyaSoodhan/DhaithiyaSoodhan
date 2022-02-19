@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently Learning about **FullStack Development**
 
-- 👯 I’m looking to collaborate on **JavaScrip Based Projects**
+- 👯 I’m looking to collaborate on **JavaScript Based Projects**
 
-- 💬 Ask me about **java,JavaScript,HTML,CSS,React**
+- 💬 Ask me about **java,JavaScript,HTML,CSS,React,Data Structures**
 
 - ⚡ Fun fact **I love to Watch Movies and TV Shows**
 
