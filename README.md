@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dhaithiya Soodhan T S</h1>
-<h3 align="center">I am a Student,Learner,Developer</h3>
+<h3 align="center">I am a Software Engineer</h3>
 
-- 🔭 I’m currently Learning about **FullStack Development**
+- 🔭 I’m currently Working as a SWE in **ADF Data Science**
 
-- 👯 I’m looking to collaborate on **JavaScript Based Projects**
+- 👯 I’m looking to collaborate on **Java,JavaScript Based Projects**
 
-- 💬 Ask me about **java,JavaScript,HTML,CSS,React,Data Structures**
+- 💬 Ask me about **java,JavaScript,HTML,CSS,React,Data Structures, Spring Boot, Docker,Mysql**
 
 - ⚡ Fun fact **I love to Watch Movies and TV Shows**
 
